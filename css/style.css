@@ -197,3 +197,196 @@ li a{
     transform: translate(-66px,12px);
     border: 1px solid #8B8371;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.wrapper_pop_model{
+    padding-top: 20px;
+    max-width: 1170px;
+    margin: 0 auto;
+    text-align: center;
+    
+}
+.model_cards{
+    text-align: start;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding-bottom: 86px;
+}
+.watch_card{
+    position: relative;
+    width: 370px;
+    height: 467px;
+    background-color:#FDFDFB;
+}
+.Ellipse_popular_model{
+    position: absolute;
+    max-height:313px;
+    top: 78px;
+    left: 28px;
+    z-index: 1;
+}
+.watch-pic{
+    transform: translate(19px, -13px);
+    z-index: 9;
+}
+.text_1{
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 43px;
+}
+.see_more{
+    padding-bottom: 11px;
+    position: relative;
+    text-align: end;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+}
+.see_more_cot{
+    padding-bottom: 25px;
+}
+.line_1{
+    height: 2px;
+    width: 101px;
+    background: rgb(153, 151, 151);
+    float: right;
+}
+.text_3{
+    padding-bottom: 1px;
+}
+.card_text_name{
+    padding: 40px 0px 0px 36px;
+}
+.text_2_before{
+    padding-left: 88px;
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 21px;
+}
+.text_2_before::before{
+    content: "";
+    display:block;
+    max-width: 30px;
+    height: 0px;
+    background-color: black;
+    transform: translate(-50px,12px);
+    border: 1px solid #8B8371;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.wrapper_true_quality{
+    display: flex;
+    align-items: center;
+   position: relative;
+   width: 100%;
+   height: 519px;
+   margin: 0 auto;
+}
+.banner_1{
+    z-index: -1;
+    top:0;
+    left: 0;
+    position: absolute;
+    width: 38%;
+    height: 100%;
+    background: #F7F5EF;;
+}
+.banner_2{
+    z-index: -1;
+    top:0;
+    right: 0;
+    position: absolute;
+    width: 62%;
+    height: 100%;
+    background: #FDFDFB;;
+}
+.quality_content{
+    margin: 0 auto;
+    width: 967px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.catalog_name_2{
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 43px;
+}
+.catalog_btn_2{
+    border:none;
+    width: 205px;
+    height: 64px;
+    background-color: #D4B098;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
